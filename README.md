@@ -7,7 +7,7 @@
 
 ## 2.数据采集设备
 <div align="center">
-  <img src="doc/device.jpg">
+  <img src="doc/device.jpg" style="width: 400px; height: auto;"/>
 </div>
 
 **雷达**
