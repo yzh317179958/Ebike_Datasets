@@ -7,7 +7,7 @@
 
 ## 2.数据采集设备
 <div align="center">
-  <img src="doc/device.ipg" width="50%">
+  <img src="doc/device.ipg">
 </div>
 
 **雷达**
