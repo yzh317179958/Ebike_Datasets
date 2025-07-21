@@ -37,6 +37,6 @@
 
 ### 3.1 里程计建图效果
 <div align="center">
-  <img src="doc/map.png" width="50">
+  <img src="doc/map.png">
 </div>
 该地图为飞道科技发展有限公司办公楼下场景。
