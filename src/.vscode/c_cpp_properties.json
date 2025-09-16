@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yzh/fast_lio_ws/install/yesense_interface/include/**",
+        "/home/yzh/fast_lio_ws/install/rslidar_msg/include/**",
+        "/home/yzh/fast_lio_ws/install/fast_lio/include/**",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yzh/fast_lio_ws/src/FAST_LIO/include/**",
+        "/home/yzh/fast_lio_ws/src/imu_H30_ws/src/yesense_ros2/yesense_interface/include/**",
+        "/home/yzh/fast_lio_ws/src/imu_H30_ws/src/yesense_ros2/yesense_std_ros2/include/**",
+        "/home/yzh/fast_lio_ws/src/time_sync_node/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

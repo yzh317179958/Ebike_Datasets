@@ -1,0 +1,16 @@
+## 编译输出
+/build/
+/install/
+*.log
+
+## 系统文件
+.DS_Store
+.idea/
+
+## 依赖目录
+/node_modules/
+/vendor/
+
+## 环境文件
+.env
+*.env.local

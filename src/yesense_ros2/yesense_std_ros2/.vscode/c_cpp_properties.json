@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yzh/livox_ws/install/livox_ros_driver2/include/**",
+        "/opt/ros/humble/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/FAST_LIO/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/OrbbecSDK_ROS2-2.4.3/orbbec_camera/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/bike_control/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/integrated_navigation/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/posetrack/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/serial/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/yesense_ros2/yesense_interface/include/**",
+        "/run/user/1000/gvfs/sftp:host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/src/yesense_ros2/yesense_std_ros2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

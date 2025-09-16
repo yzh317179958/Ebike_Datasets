@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/yesense_interface/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/rslidar_msg/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/posetrack/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/orbbec_camera_msgs/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/integrated_navigation/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/bike_ui/lib/python3.10/site-packages",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/yesense_interface/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/rslidar_msg/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/posetrack/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/orbbec_camera_msgs/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/integrated_navigation/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/sftp",
+        "host=192.168.1.102,user=sunrise/home/sunrise/Ebike_Human_Follower/install/bike_ui/lib/python3.10/site-packages",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

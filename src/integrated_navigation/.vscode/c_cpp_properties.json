@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yzh/fastlio_tracking_transform/install/bike_control/include/**",
+        "/home/yzh/fastlio_tracking_transform/install/integrated_navigation/include/**",
+        "/home/yzh/fastlio_tracking_transform/install/fast_lio/include/**",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yzh/fastlio_tracking_transform/src/FAST_LIO/include/**",
+        "/home/yzh/fastlio_tracking_transform/src/bike_control/include/**",
+        "/home/yzh/fastlio_tracking_transform/src/integrated_navigation/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

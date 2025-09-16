@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yzh/fastlio_tracking_transform/install/yolov11_pose_tracking/lib/python3.10/site-packages",
+        "/home/yzh/fastlio_tracking_transform/install/integrated_navigation/local/lib/python3.10/dist-packages",
+        "/home/yzh/fastlio_tracking_transform/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yzh/fastlio_tracking_transform/install/yolov11_pose_tracking/lib/python3.10/site-packages",
+        "/home/yzh/fastlio_tracking_transform/install/integrated_navigation/local/lib/python3.10/dist-packages",
+        "/home/yzh/fastlio_tracking_transform/install/fast_lio/local/lib/python3.10/dist-packages",
+        "/home/yzh/livox_ws/install/livox_ros_driver2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
